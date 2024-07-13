@@ -1,8 +1,8 @@
-Paint Brush Application
-Description
+#Paint Brush Application
+#Description
 The Paint Brush application is a Java Swing-based program that allows users to create drawings using various tools such as line, rectangle, oval, pencil, and eraser. It features a color palette, mode selection (solid/dotted), undo functionality, and the ability to clear the canvas.
 
-Features
+#Features
 Drawing Tools: Line, Rectangle, Oval, Pencil, Eraser.
 Color Palette: Choose from a selection of colors.
 Mode Selection: Toggle between solid and dotted drawing modes.
@@ -11,7 +11,7 @@ Clear: Clear the entire canvas.
 Screenshots
 Include screenshots of your application in action here.
 
-Usage
+#Usage
 Select a drawing tool from the toolbar (Line, Rectangle, Oval, Pencil, Eraser).
 Choose a color from the color palette.
 Toggle between solid and dotted modes.
